@@ -216,7 +216,7 @@ function init() {
 function render() {
     return ` 
     <aside class="aside-container">
-        <header class="appTitle-container"><h1 class="appTitle">ToDo List</h1></header>
+        <header class="appTitle-container"><h1 class="appTitle">⚡Taskify</h1></header>
         <input type="text" id="titleInput" placeholder="Title" class="titleInput Inputs">
         <input type="text" id="taskInput" placeholder="Add a task" class="mainInput Inputs">
         <button id="addBtn" class="Btn">Add Task</button>
